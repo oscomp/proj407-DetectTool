@@ -2,7 +2,7 @@
 操作系统异常信息检测工具
 
 ### 导师信息
-宋凯，15071496396，songkai01@ieisystem.com
+宋凯，songkai01@ieisystem.com
 
 ### 难度
 中
